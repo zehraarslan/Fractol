@@ -15,10 +15,10 @@ Fractol, fraktalları keşfetmeyi amaçlayan bir projedir; her ölçekte görün
 * Üç fraktal arasında gezinin.
 
 # Installation
-. make re
-. ./fractal julia
-. ./fractal mandelbrot
-. ./fractal burningship
+* make re
+* ./fractal julia
+* ./fractal mandelbrot
+* ./fractal burningship
 
 # Çıktılar
 <img width="799" alt="Screen Shot 2022-09-02 at 11 49 41 AM" src="https://user-images.githubusercontent.com/48572250/188102154-44296e3a-ba85-4172-b4e3-c340e0e2877f.png">
