@@ -22,13 +22,13 @@ Fractol, fraktalları keşfetmeyi amaçlayan bir projedir; her ölçekte görün
 
 # Klavye Kontrolleri
 
-* Bu harita için yapılan tüm değişiklikleri sıfırla temizle - R
-* Ekran gradyanını değiştir (diğer bir deyişle rengi değiştir) kaymasını değiştir -1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 0
-* Fraktalı yukarı hareket ettirin (aka yukarı hareket edin) ▲ - W
-* Fraktalı aşağı doğru hareket ettirin (diğer adıyla aşağı hareket edin) ▼ - S 
-* Fraktalı sola hareket ettirin (diğer bir deyişle genişlik sola hareket ettirin) ◄ - A
-* Fraktalı sağa hareket ettirin (diğer adıyla sağa hareket ettirin)# ► - D
-* Julia fraktalını göster # Z - X - C - V - B
+* Bu harita için yapılan tüm değişiklikleri sıfırla temizle : R
+* Ekran gradyanını değiştir (diğer bir deyişle rengi değiştir) kaymasını değiştir : 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 0
+* Fraktalı yukarı hareket ettirin (aka yukarı hareket edin) : ▲ W
+* Fraktalı aşağı doğru hareket ettirin (diğer adıyla aşağı hareket edin) : ▼ S 
+* Fraktalı sola hareket ettirin (diğer bir deyişle genişlik sola hareket ettirin) : ◄  A
+* Fraktalı sağa hareket ettirin (diğer adıyla sağa hareket ettirin) : ► - D
+* Julia fraktalını göster : Z - X - C - V - B
 
 # Çıktılar
 <img width="799" alt="Screen Shot 2022-09-02 at 11 49 41 AM" src="https://user-images.githubusercontent.com/48572250/188102154-44296e3a-ba85-4172-b4e3-c340e0e2877f.png">
