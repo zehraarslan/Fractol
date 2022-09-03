@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"fractol.h": "c",
+		"iterator": "c",
+		"array": "c",
+		"string": "c",
+		"string_view": "c",
+		"vector": "c"
+	}
+}
